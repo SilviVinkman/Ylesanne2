@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne2\Ylesanne2\bin\Debug\Ylesanne2.exe.config
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne2\Ylesanne2\bin\Debug\Ylesanne2.exe
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne2\Ylesanne2\bin\Debug\Ylesanne2.pdb
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne2\Ylesanne2\obj\Debug\Ylesanne2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne2\Ylesanne2\obj\Debug\Ylesanne2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne2\Ylesanne2\obj\Debug\Ylesanne2.exe
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne2\Ylesanne2\obj\Debug\Ylesanne2.pdb
