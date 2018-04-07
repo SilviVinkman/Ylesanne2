@@ -49,7 +49,6 @@ namespace Ylesanne2
             Console.WriteLine(builder);
             Console.WriteLine("Press any key");
             Console.ReadLine();
-
         }
     }
 }
